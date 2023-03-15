@@ -4,9 +4,9 @@ It's my enough a small simple bubbles's project with useful **SFML** in Visial S
 
 ###### The images below were taken during development, the final result will look different
 
-![](http://g.recordit.co/9p38ObLlFy.gif)
-## About
 
+## About
+![](http://g.recordit.co/9p38ObLlFy.gif)
 
 At the moment, the output is implemented:
 
