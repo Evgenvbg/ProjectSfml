@@ -1,6 +1,6 @@
-# Introduction :writing_hand:
+# ProjectSMFL Bubbles :round_pushpin:
 
-It's my enough a small simple project with useful **SFML** in Visial Studio. I want to create the circles that can painting some colors.
+It's my enough a small simple bubbles's project with useful **SFML** in Visial Studio. I want to create the circles that can painting some colors.
 
 ###### The images below were taken during development, the final result will look different
 
@@ -25,8 +25,8 @@ At the moment, the output is implemented:
 ```
 
 ## Usage:
-Before using, you need to add SFML
-___
+Before using, you need to add SFML 
+
 ## Reference
 
 **SFML:**
